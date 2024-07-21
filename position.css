@@ -1,0 +1,16 @@
+div.element{
+    position:static;
+    border:2px solid blue;
+    background-color: aqua;
+}
+div.fixed{
+    position: fixed;
+    border: 2px solid green;
+    background-color: lightgreen;
+}
+div.sticky{
+    position: sticky;
+    border: 2px solid bisque; 
+    background-color:rgb(0, 0, 0);
+    color: white;
+}
